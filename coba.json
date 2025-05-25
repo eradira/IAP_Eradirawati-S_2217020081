@@ -1,0 +1,32 @@
+[
+    {
+    "Nama":"Eradirawati",
+    "Umur":20,
+    "Nim": 2217020081,
+    "Lulus":true,
+    "Hobby":[
+        "baca buku",
+        "Nonton",
+        "Traveling"
+        ],
+    "Pembimbing":{
+        "Pembimbing 1":"Raju Wandira",
+        "Pembimbing 2" : "Domi Sepri"
+        }
+    },
+    {
+        "Nama":"Eradirawati",
+        "Umur":20,
+        "Nim": 2217020081,
+        "Lulus":true,
+        "Hobby":[
+            "baca buku",
+            "Nonton",
+            "Traveling"
+            ],
+        "Pembimbing":{
+            "Pembimbing 1":"Raju Wandira",
+            "Pembimbing 2" : "Domi Sepri"
+        }
+    }
+]
