@@ -88,7 +88,7 @@ $gambar3=$resultGambar3['media_url'];
     <div class="jumbotron" id="home">
       <div class="container">
         <div class="text-center">
-          <img src="img/profile2.png" class="rounded-circle img-thumbnail">
+          <img src="img/profil dira.jpeg" class="rounded-circle img-thumbnail">
           <h1 class="display-4">Eradirawati S</h1>
           <h3 class="lead">Student | Programmer | Youtuber</h3>
         </div>
@@ -106,10 +106,10 @@ $gambar3=$resultGambar3['media_url'];
         </div>
         <div class="row justify-content-center">
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Saya adalah seorang mahasiswa yang sedang belajar di dunia teknologi informasi. Walaupun saya tertarik dengan pemrograman, saya bukanlah seorang ahli atau pro di bidang ini masih terus belajar dan berkembang sedikit demi sedikit.</p>
           </div>
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Saya juga aktif di YouTube, tapi bukan sebagai content creator tentang pemrograman. Channel saya lebih berisi tentang keseharian, cerita hidup, dan hal-hal yang saya sukai. Bukan vlog profesional, tapi lebih ke tempat berbagi pengalaman dan curhat ringan.</p>
           </div>
         </div>
       </div>
@@ -189,61 +189,34 @@ $gambar3=$resultGambar3['media_url'];
         <div class="row">
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/1.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/padangtv.jpeg" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">PHP • Bootstrap • MySQL
+Aplikasi web HR untuk mengelola data karyawan dan penggajian, dengan fitur login role-based, cetak kartu, slip gaji, dan ekspor data.</p>
               </div>
             </div>
           </div>
 
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/2.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/Vlog.jpeg" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Saya aktif di YouTube dengan membagikan vlog keseharian yang sederhana dan apa adanya. Lewat konten tersebut, saya ingin berbagi cerita, pengalaman, dan sedikit hiburan dari sudut pandang pribadi.
+Channel ini adalah ruang untuk mengekspresikan diri tanpa harus menjadi sempurna.</p>
               </div>
             </div>
           </div>
 
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/3.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/website.jpeg" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Saat ini saya sedang membangun website pribadi sebagai tempat untuk belajar, bereksperimen, dan menampilkan hasil karya saya. Website ini menjadi ruang untuk mengembangkan diri di dunia digital, sekaligus mencatat perjalanan belajar saya.</p>
               </div>
             </div>
           </div>   
         </div>
 
-        <div class="row">
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="img/thumbs/4.png" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
-            </div>
-          </div> 
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="img/thumbs/5.png" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="img/thumbs/6.png" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
     </section>
 
 
@@ -268,8 +241,8 @@ $gambar3=$resultGambar3['media_url'];
             <ul class="list-group mb-4">
               <li class="list-group-item"><h3>Location</h3></li>
               <li class="list-group-item">My Office</li>
-              <li class="list-group-item">Jl. Setiabudhi No. 193, Bandung</li>
-              <li class="list-group-item">West Java, Indonesia</li>
+              <li class="list-group-item">Jl. Adhinegoro No. 20, Jogja</li>
+              <li class="list-group-item">Java, Indonesia</li>
             </ul>
           </div>
 
@@ -308,7 +281,7 @@ $gambar3=$resultGambar3['media_url'];
       <div class="container">
         <div class="row">
           <div class="col text-center">
-            <p>Copyright &copy; 2018.</p>
+            <p>Copyright &copy; 2025.</p>
           </div>
         </div>
       </div>
